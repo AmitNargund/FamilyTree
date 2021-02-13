@@ -1,0 +1,4 @@
+Build the jar file using below command
+    mvn clean package
+To RUN the application execute
+    java -jar geektrust.jar PATH_TO_TEST_FILE
